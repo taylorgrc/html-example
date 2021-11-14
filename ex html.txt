@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> taylor's little corner </title>
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="header">
+				<h1> My Portfolio </h1>
+			</div>
+			<div id="content">
+				<div id="nav">
+					<h3>navigation</h3>
+					<ul>
+						<li>Projects</li>
+					</ul>
+				</div>
+
+				<div id="main">
+					<h2>Basic Summary</h2>
+					<p>Taylor loves coding</p>
+					<img src="paint.jpg"
+				</div>
+			<div id="footer">
+				Copyright &copy; Please hire me.
+			</div>
+		
+		</div>
+
+	</body>
+</html>
